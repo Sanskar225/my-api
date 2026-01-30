@@ -1,0 +1,86 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "Sanskar Sinha",
+      "title": "Software Development Engineer",
+      "phone": "+91-7599015656",
+      "links": {
+        "github": "https://github.com/Sanskar225",
+        "linkedin": "https://linkedin.com/in/sanskarsinha",
+        "leetcode": "https://leetcode.com/"
+      },
+      "careerObjective": "Results-driven Software Development Engineer with a strong foundation in Data Structures and Algorithms using C++, and hands-on experience in full-stack web development. Passionate about building scalable solutions and solving complex problems."
+    }
+  ],
+
+  "skills": [
+    {
+      "id": 1,
+      "languages": ["HTML", "CSS", "JavaScript", "TypeScript", "C", "C++"],
+      "frameworks": ["React", "Next.js", "Node.js", "Express", "Tailwind", "Prisma", "WebSocket"],
+      "databases": ["MongoDB", "PostgreSQL"],
+      "authentication": ["JWT", "NextAuth", "AWS Cognito"],
+      "tools": ["VS Code", "Git", "GitHub", "Postman"],
+      "cloud": ["AWS S3", "EC2", "RDS", "Amplify", "VPC"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "name": "CPBYTE Student Portal",
+      "role": "Full-Stack Developer",
+      "stack": ["React", "Node.js", "Express", "Prisma", "PostgreSQL"],
+      "description": "Internal portal for CPByte club members to manage attendance, coding progress, and events."
+    },
+    {
+      "id": 2,
+      "name": "ProjectSpace",
+      "role": "Full-Stack Developer",
+      "stack": ["Next.js", "TypeScript", "Express", "PostgreSQL", "AWS"],
+      "description": "Project management platform with Kanban boards, Gantt charts, and real-time updates."
+    }
+  ],
+
+  "education": [
+    {
+      "id": 1,
+      "degree": "B.Tech",
+      "branch": "Computer Science & IT",
+      "college": "KIET Group of Institutions",
+      "cgpa": 7.76,
+      "duration": "2024 - 2028"
+    }
+  ],
+
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Solved 200+ DSA problems on LeetCode"
+    },
+    {
+      "id": 2,
+      "title": "Odoo Hackathon 2025 Participant"
+    },
+    {
+      "id": 3,
+      "title": "Dataverse Hackathon 2025 Participant"
+    }
+  ],
+
+  "leadership": [
+    {
+      "id": 1,
+      "role": "Team Lead – CPByte Portal Development",
+      "organization": "CPBYTE KIET",
+      "duration": "June 2025 – July 2025"
+    },
+    {
+      "id": 2,
+      "role": "Coordinator – Web Development Domain",
+      "organization": "CPBYTE KIET",
+      "duration": "2025 – Present"
+    }
+  ]
+}
